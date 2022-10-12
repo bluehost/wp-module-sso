@@ -1,6 +1,7 @@
 {
   "name": "newfold/wp-module-sso",
   "description": "Single sign-on functionality for WordPress.",
+  "abandoned": "newfold-labs/wp-module-sso",
   "license": "GPL-2.0-or-later",
   "repositories": [
     {
